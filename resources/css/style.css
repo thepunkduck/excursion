@@ -2,7 +2,7 @@ body {
     font-family: Verdana, sans-serif;
     text-align: center;
     background-color: black;
-    color: rgb(235, 212, 212);
+    color: rgb(255, 255, 255);
 }
 
 .cta {
@@ -21,8 +21,8 @@ h2 {
 }
 
 p {
-    color: Gray;
-    font-size: 21px;
+    color: rgb(115, 122, 126);
+    font-size: 20px;
 }
 
 .footer {
